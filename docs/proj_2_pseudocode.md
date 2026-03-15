@@ -1,22 +1,21 @@
 # Project 2 Pseudocode
 
-The following pseudocode describes the general flow of the program.
+Start Program
 
-Start program
+Initialize required variables
 
-Initialize program variables
+Read input from user or input source
 
-Read input data
-
-Validate input
+Validate the input
 
 If input is valid
-    Process the data using program logic
+    Process the input using program logic
+    Store the results
 Else
     Display an error message
 
-Generate output results
+Generate output based on processed data
 
-Display results to the user
+Display the output to the user
 
-End program
+End Program
