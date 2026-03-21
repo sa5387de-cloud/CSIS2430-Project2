@@ -41,8 +41,8 @@ M5 — Final integration and submission
 
 | ID | Task | Owner | Status | Evidence |
 |----|------|------|------|------|
-|1|Create repository and docs folder|Naomi|Done|Initial repository commit|
-|2|Prepare project plan document|Han|Done|docs/proj_2_plan.md|
+|1|Create repository and docs folder| Han | Done |Initial repository commit|
+|2|Prepare project plan document | Han | Done |docs/proj_2_plan.md|
 |3|Write scope document|Han|Done|docs/proj_2_scope.md|
 |4|Write pseudocode for main algorithm|Han|Done|docs/proj_2_pseudocode.md|
 |5| Create program skeleton in src folder | Naomi | Done | src/Main.java + working project setup |
