@@ -45,11 +45,11 @@ M5 — Final integration and submission
 |2|Prepare project plan document | Han | Done |docs/proj_2_plan.md|
 |3|Write scope document|Han|Done|docs/proj_2_scope.md|
 |4|Write pseudocode for main algorithm|Han|Done|docs/proj_2_pseudocode.md|
-|5| Create program skeleton in src folder | Naomi | Done | src/Main.java + working project setup |
+|5| Create program skeleton in src folder | Han | Done | src/Main.java + working project setup |
 |6| Implement main program logic | Team | In Progress | ExperimentRunner + sorting implementations |
 |7| Create test cases | Naomi (Verification Lead) | Done | Verified runs for n = 4, 6, 8 |
-|8| Run program and collect results | Naomi (Verification Lead) | Done | Console output + screenshots in docs |
-|9| Document results and screenshots | Naomi (Verification Lead) | Done | docs/test_results.md |
+|8| Run program and collect results | Naomi (Verification Lead) | Done | Console output + screenshots in docs commit: b01c68b |
+|9| Document results and screenshots | Naomi (Verification Lead) | Done | docs/test_results.md commit: 2f32e7c |
 |10| Prepare final submission materials| Team | Not Started |
 
 
