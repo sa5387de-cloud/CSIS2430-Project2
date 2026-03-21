@@ -24,6 +24,5 @@ The project was successfully built and executed locally.
 The program is functioning correctly and meets the project requirements from a verification standpoint.
 
 ### Evidence:
-
-![Experiment Output](Experiment Output.png)
+![Experiment Output](experiment_output.png)
 
