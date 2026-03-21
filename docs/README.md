@@ -16,7 +16,7 @@ The program generates permutations of input sizes and evaluates algorithm perfor
 ## Team Roles
 
 * **Han** — Implementation Lead
-* * **Naomi** — Verification Lead
+* **Naomi** — Verification Lead
 * **** — Communications Lead
 
 ---
