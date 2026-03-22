@@ -4,7 +4,7 @@ public class SortResult {
 
   public SortResult(int[] sortedArray, long comparisons) {
     this.sortedArray = sortedArray;
-    this.comparisons = comparsions;
+    this.comparisons = comparisons;
   }
 
   public int[] getSortedArray() {
